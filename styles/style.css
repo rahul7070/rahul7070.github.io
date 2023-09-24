@@ -714,6 +714,10 @@ header img{
     #about img{
         width: 50vw;
     }
+    #about{
+        display: flex;
+        flex-direction: column;
+    }
 
     #tech {
         grid-template-columns: repeat(3,1fr);
