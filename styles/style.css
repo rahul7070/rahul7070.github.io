@@ -814,6 +814,10 @@ header img{
         height: auto;
         transition: all .50s ease;
     }
+    #about{
+        display: flex;
+        flex-direction: column;
+    }
     
     #nav-menu a{
         display: block;
